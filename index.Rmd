@@ -64,9 +64,8 @@ Contact {#contact}
 
 
 - <i class="fa fa-envelope"></i> keronnin@asu.edu
-- <i class="fa fa-twitter"></i> kirsten_ronning
-- <i class="fa fa-github"></i> github.com/kirstenronning
-- <i class="fa fa-linkedin"></i> linkedin.com/in/kirstenronning/
+- <i class="fa fa-github"></i> [github.com/kirstenronning](github.com/kirstenronning)
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/kirstenronning/](linkedin.com/in/kirstenronning/)
 - <i class="fa fa-phone"></i> (602) 826-1484
 
 
