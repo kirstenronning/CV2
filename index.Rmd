@@ -149,7 +149,7 @@ print_section(position_data, 'academic_articles')
 ```
 
 
-Data Science Projects {data-icon=chart-line}
+Data Science Projects {data-icon=laptop-code}
 --------------------------------------------------------------------------------
 
 ```{r}
