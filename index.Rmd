@@ -77,7 +77,8 @@ Language Skills {#skills}
 ```{r}
 skills <- tribble(
   ~skill,               ~level,
-  "R",                  3,
+  "R",                  4,
+  "Tableau",            3,
   "Python",             2,
   "SQL",                2,
   "HTML5",              2,
